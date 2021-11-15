@@ -1,0 +1,449 @@
+body{
+    background-color: rgba(250, 246, 246, 0.822);
+    font-family: 'Commissioner', sans-serif;
+}
+
+h6{
+    color:hsl(0, 0%, 48%);
+    font-weight: 500;
+}
+
+h6{
+    font-weight: 700;
+}
+
+div{
+    background-color: white;
+    margin: 0 auto;
+}
+
+.div-1{
+    text-align: right;   
+    background-image: url(../images/image-hero-desktop.jpg);
+    padding: 13.2% 8%;
+    width: 94.5%;
+}
+
+.crowd{
+    text-align: justify;
+    position: absolute;
+    top: 3%;
+    color: white;
+}
+
+hr{
+    display: none;
+}
+
+.about{
+    position: absolute;
+    right: 11%;
+    top: 3%;
+    background-color: transparent;
+}
+
+.vl {
+    border-left: 1px solid hsl(0, 2%, 82%);
+    height: 70px;
+    display: inline-block;
+  }
+
+.div-2{
+    
+    text-align: center;
+    width: 48%;
+    margin-top: -6%;
+    border-radius: 5px;
+    padding-bottom: 2%;
+}
+
+.book{
+    color: hsl(176, 72%, 28%);
+}
+
+.logo{
+    margin-top: -4%;
+}
+
+.logo2{
+    fill: hsl(176, 72%, 28%);
+}
+
+.logo3{
+    fill: #FFFFFF;
+}
+
+.div-3{
+    background-color: white;
+    margin-top: 1%;
+    width: 48%;
+    text-align: center;
+    border-radius: 5px;
+    padding: 2% 0;
+}
+
+.info{
+    display: inline-block;
+    text-align: center;
+    padding: 0 5%;
+}
+
+.progress{
+    margin:2% 5%;
+    border-radius: 25px;
+}
+
+.progress-bar{
+    margin: 0;
+    background-color: hsl(176, 50%, 47%); 
+    border-radius: 25px;
+}
+
+.project{
+    margin-bottom: 5%;
+}
+
+.div-4{
+    width: 48%;
+    margin-top: 1%;
+    padding: 2% 3%;
+}
+
+.div-5{
+    border-style: solid;
+    border-color: hsl(0, 2%, 82%);
+    border-radius: 5px;
+    border-width: 2px;
+    margin: 3% 0;
+    padding: 2% 3%;
+}
+
+h5{
+    display: inline-block;
+}
+
+.text-end{
+    color: hsl(176, 50%, 47%);
+    margin-top: -5%;
+}
+
+.left{
+    font-size: 50%;
+    color:  hsl(0, 0%, 48%);
+    margin-bottom: 2%;
+}
+
+.btn1{
+    background-color: hsl(176, 50%, 47%);   
+    border-radius: 25px;
+    margin-left: 4%;
+    border-width: 0;
+    padding: 1% 2%;
+    margin-top: 3%;
+}
+
+.btn1:hover{
+    background-color: hsl(176, 72%, 28%);
+}
+
+.bookmark{
+    color: hsl(0, 0%, 48%);
+    border-radius: 25px;
+    border-width: 0;
+    padding: 0;
+    padding-right: 2%;
+    text-align: right;
+    background-color: rgba(250, 246, 246, 0.822);
+    margin-top: -6%;
+}
+
+.btn2{
+    background-color: hsl(176, 50%, 47%);   
+    border-radius: 25px;
+    margin-top: -5%;
+    border-width: 0;
+}
+
+.btn2:hover{
+    background-color: hsl(176, 72%, 28%);
+}
+
+.main{
+    color: white;
+}
+
+.main:hover{
+    color: white;
+}
+
+.text{
+    line-height: 1.5    ;
+}
+
+.special{
+    color: hsl(0, 0%, 48%);
+}
+
+.pledge{
+    color: hsl(176, 72%, 76%);   
+}   
+
+.text1{
+    color: hsl(0, 2%, 82%);   
+}
+
+.div-6{
+    border-style: solid;
+    border-color: hsl(0, 6%, 94%);
+    border-radius: 5px;
+    border-width: 2px;
+    margin: 3% 0;
+    padding: 2% 3%;
+}
+
+.button1{
+    background-color: hsl(0, 2%, 82%);
+    border-width: 0;
+}
+
+.button1:hover{
+    background-color: hsl(0, 2%, 82%);
+}
+
+.navbar-collapse{
+    background-color: transparent;
+}
+
+.navbar-nav{
+    background-color: transparent;
+}
+
+.nav-link{
+    color: white!important;
+}
+
+.modal{
+    text-align: left;
+    padding-right: 0!important;
+    background-color: transparent;
+}
+
+.modal-body{
+    background-color: unset;
+}
+
+.modal-content{
+    border-width: 0;
+}
+
+.check:hover{
+    color: hsl(176, 50%, 47%);
+    border-color: hsl(176, 50%, 47%);
+    border-width: 2px;
+}
+
+.pro{
+    color: black;
+}
+
+.text2{
+    color: hsl(176, 50%, 47%);
+}
+
+.left2{
+    display: inline-block;
+    text-align: right!important;
+    margin-top: 0;
+    position: absolute;
+    right: 7%;
+}
+
+.check input:checked{
+    background-color: hsl(176, 50%, 47%);
+}
+
+.div-7{
+    border-color: hsl(176, 50%, 47%);
+}
+
+.dollar{
+    border-radius: 25px 0 0 25px;
+    background-color: transparent;
+    padding-right: 2%;
+}
+
+.amount{
+    border-radius: 0 25px 25px 0;
+    border-left-width: 0;
+    padding-left: 0;
+}
+
+.modal-display{
+    display: none;
+}
+
+.check-mark{
+    display: block;
+    margin: 0 auto;
+    margin-top: 6%;
+    margin-bottom: 6%;
+}
+
+.modal-head{
+    display: block;
+    text-align: center;
+}
+
+.got{
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 3%;
+    background-color: hsl(176, 50%, 47%);   
+    border-radius: 25px;
+}
+
+.second-modal{
+    background-color: transparent;
+}
+
+.thanks-des{
+    text-align: center;
+}
+
+.btn3{
+    margin: 0;
+}
+
+
+@media (max-width: 840px){
+    .navbar-nav{
+        background-color: white;
+        text-align: left;
+    }
+
+    .about{
+        position: unset;
+    }
+
+    .div-1{
+        background-image: url(../images/image-hero-mobile.jpg);
+        background-size: 100%;
+        padding-bottom: 26%;
+    }
+
+    .div-2{
+        width: 80%;
+        padding-bottom: 8%;
+    }
+
+    .div-3{
+        margin-top: 6%;
+        width: 80%;
+        padding-bottom: 5%;
+    }
+
+    .vl{
+        display: none;
+    }
+
+    .div-4{
+        margin-top: 6%;
+        width: 80%;
+    }
+
+    hr{
+        display: block;
+        width: 20%;
+        margin: 0 auto;
+    }
+
+    .info{
+        display: block;
+        padding-top: 5%;
+        padding-bottom: 5%;
+    }
+
+    .bookmark{
+        margin-top: 5%;
+    }
+
+    .grid2{
+        display: inline-block;
+    }
+
+    .btn1{
+        margin-left: 0;
+        width: 15rem;
+        height: 3rem;
+    }
+
+    #book-1{
+        display: none;
+    }
+
+    .logo{
+        margin-top: -8%;
+    }
+
+    .project{
+        padding-top: 10%;
+    }
+
+    .btn2{
+        margin-top: 4%;
+        width: 45%;
+        height: 3rem;
+    }
+
+    .div-5{
+        margin: 8% 0;
+    }
+
+    .text-end{
+        text-align: left!important;
+        margin-top: 0;
+        margin-bottom: 7%;
+    }
+
+    .nav-link{
+        color: unset!important;
+    }
+
+    .n{
+        width: 100%;
+        font-weight: 700;
+    }
+
+    .nl{
+        padding-top: 3%;
+        padding-left: 3%!important;
+    }
+
+    .navbar-nav{
+        border-radius: 5px;
+    }
+
+    .content{
+        margin: 0 10%;
+    }
+
+    .content-main{
+        padding: 0 5%;
+    }
+
+    .btn3{
+        width: 100%;
+        display: inline-block;
+    }
+
+    .text-start{
+        text-align: left;
+        margin-right: 50%;
+    }
+}
+
+/* @media (max-width: 840px){
+    .btn2{
+        padding-top: ;
+    }
+} */
